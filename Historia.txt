@@ -9,3 +9,5 @@ Tengo 26 años de edad.
 Estoy aprendiendo a usar git.
 
 Ya inicie con los camandos básicos.
+
+Utilización de git init, add, reset, status, log.
